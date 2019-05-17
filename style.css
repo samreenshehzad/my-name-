@@ -1,0 +1,24 @@
+/* write your styles here */
+marquee{
+    background-color:#ed484c;
+    color:white;
+    padding: 1em 1em;
+} 
+li{
+    list-style:none;
+}
+img{
+    height:3em;
+    width: 6em;
+        }
+
+}
+section 1{
+    background-color:#f18d97;
+}
+section 2{
+    background-color:#efece7;
+}
+section 2{
+    background-color:#ddceb4;
+}
